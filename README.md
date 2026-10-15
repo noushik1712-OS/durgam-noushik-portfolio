@@ -1,6 +1,6 @@
 # 🚀 Durgam Noushik (D. Noushik / Nani) — Official Personal Portfolio
 
-**Founder & CEO of Royal Core Technologies Pvt Ltd | Student Entrepreneur | OS & AI Systems Developer | Python Specialist**
+**Founder & Chairman, RoyalCore Group of Innovations (RCGI) | Systems Architect | Python Specialist**
 
 [![GitHub](https://img.shields.io/badge/GitHub-noushik1712--OS-181717?style=for-the-badge&logo=github)](https://github.com/noushik1712-OS)
 [![RoyalCore Org](https://img.shields.io/badge/Org-RoyalCore--Technologies-6366f1?style=for-the-badge&logo=github)](https://github.com/RoyalCore-Technologies)
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Executive Overview
 
-Hi! I'm **Durgam Noushik** (short form: **D. Noushik**, nickname: **NANI**), a 14-year-old student entrepreneur and software developer from **Asifabad (504293), Telangana, India** (born July 1, 2012 in Wankidi - 504295). Currently pursuing **SSC (10th Grade)** at **PMSHRI Telangana Model School, Asifabad**, I am the Founder & CEO of **Royal Core Technologies (Royal Core Tech Pvt Ltd)**.
+Hi! I'm **Durgam Noushik** (short form: **D. Noushik**, nickname: **NANI**), a 14-year-old Chairman, systems architect, and software engineer from **Asifabad (504293), Telangana, India** (born July 1, 2012 in Wankidi - 504295). Currently pursuing **SSC (10th Grade)** at **PMSHRI Telangana Model School, Asifabad**, I am the Founder & Chairman of **RoyalCore Group of Innovations (RCGI)** — the parent conglomerate under which **Royal Core Technologies** serves as our flagship deep-technology and software division.
 
 ---
 
